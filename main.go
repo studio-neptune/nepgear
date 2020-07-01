@@ -10,12 +10,13 @@ package main
 
 import (
 	"fmt"
-	api "github.com/star-inc/NepCoreO"
-	core "github.com/star-inc/olsb_cores/libs/NepCoreO"
-	"gopkg.in/yaml.v2"
 	"io/ioutil"
 	"os"
 	"strings"
+
+	api "github.com/star-inc/NepCoreO"
+	core "github.com/star-inc/olsb_cores/libs/NepCoreO"
+	"gopkg.in/yaml.v2"
 )
 
 type configInterface struct {

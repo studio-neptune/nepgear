@@ -1,0 +1,7 @@
+LINE:
+  Server:
+    Command_Path: /example_path
+    LongPoll_path: /example_path
+
+  Account:
+    X-Line-Access: LINE_Application_AccessKey
